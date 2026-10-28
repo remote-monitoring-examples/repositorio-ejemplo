@@ -1,4 +1,4 @@
-
+# Comentario sin importancia
 import random
 
 def jugar():
